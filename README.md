@@ -4,7 +4,7 @@ A lightweight, open-source, dual-pane file manager for the Oculus Quest (1, 2, 3
 
 It allows you to connect wirelessly or via USB to your device and perform all essential file operations like transferring, deleting, and even moving files directly on the Quest itself.
 
-
+![Quest ADB File Manager GUI](./Screenshot%202025-08-04%20133343.png)
 
 
 ## Why Use This?
